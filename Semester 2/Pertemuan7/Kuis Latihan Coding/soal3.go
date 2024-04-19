@@ -36,5 +36,5 @@ func main() {
 	}
 
 	//menampilkan informasi peserta yang mencapai garis finish tercepat
-	fmt.Println("Peserta tercepat adalah budi dengan waktu", jam[idx], "jam", menit[idx], "menit", detik[idx], "detik")
+	fmt.Println("Peserta tercepat adalah", nama[idx], "dengan waktu", jam[idx], "jam", menit[idx], "menit", detik[idx], "detik")
 }
