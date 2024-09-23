@@ -15,3 +15,8 @@ Repositori ini berisi kumpulan jawaban untuk tugas-tugas pemrograman dari berbag
 
 - **Algoritma Pemrograman (Go)**
   - **Deskripsi Tugas**: Mata kuliah ini lebih fokus pada pengembangan kemampuan pemecahan masalah menggunakan algoritma.
+
+### Semester 3
+
+- **Struktur Data (C++)**
+  - **Deskripsi Tugas**: Mata kuliah ini membahas berbagai struktur data dasar seperti array, linked list, stack, queue, tree, dan graph, serta implementasinya menggunakan bahasa pemrograman C++.
