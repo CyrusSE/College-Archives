@@ -1,0 +1,10 @@
+program Digit
+kamus
+    x, d1, d2, d3 : integer
+algoritma
+    input(x)
+    d1 = x div 100
+    d2 = (x mod 100) div 10
+    d3 = x mod 10
+    output(d1, d2, d3)
+endprogram

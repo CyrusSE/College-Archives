@@ -1,0 +1,11 @@
+program toko
+kamus
+    a, b, c : integer
+    u1, u2, u3 : real
+algoritma
+    input(a, b, c)
+    u1 = a + a * 0.05
+    u2 = b + b * 0.05
+    u3 = c + c * 0.05
+    output(u1, u2, u3)
+endprogram

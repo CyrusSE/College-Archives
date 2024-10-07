@@ -1,0 +1,9 @@
+program persegi_panjang
+kamus
+    p, l : integer
+    luas, keliling : integer
+algoritma
+    luas = p * l
+	keliling = (2 * p) + (2 * l)
+    output(keliling, luas)
+endprogram

@@ -1,0 +1,12 @@
+program Terurut
+kamus
+    x, d1, d2, d3 : integer
+    terurut : boolean
+algoritma
+    input(x)
+    d1 = x div 100
+    d2 = (x mod 100) div 100
+    d3 = x mod 10
+    terurut = d1 > d2 AND d2 > d3
+    output(terurut)
+endprogram

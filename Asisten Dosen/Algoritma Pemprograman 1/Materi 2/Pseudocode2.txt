@@ -1,0 +1,11 @@
+program Lingkaran
+kamus
+    r : real
+    luasL, kelilingL : real
+algoritma
+    input(r)
+	luasL = 3.14 * r * r
+	kelilingL = 2 * 3.14 * r
+    output(luasL)
+    output(kelilingL)
+endprogram
