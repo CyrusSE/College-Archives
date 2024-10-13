@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1727522279 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan3\adt\adt\main.cpp
+	<iostream>
+	"kerucut.h"
+
+1727522279 c:\users\ical\desktop\test\gogogo\semes3\pertemuan3\adt\adt\kerucut.h
+
+1727522344 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan3\adt\adt\kerucut.cpp
+	<iostream>
+
