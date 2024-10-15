@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728215600 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan4\sll\main.cpp
+	<iostream>
+	"list.h"
+
+1728215699 c:\users\ical\desktop\test\gogogo\semes3\pertemuan4\sll\list.h
+	<iostream>
+
+1728215579 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan4\sll\list.cpp
+	<iostream>
+	"list.h"
+

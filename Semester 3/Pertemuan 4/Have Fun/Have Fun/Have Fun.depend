@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728217931 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan4\have fun\have fun\list.cpp
+	<iostream>
+	"list.h"
+
+1728217937 c:\users\ical\desktop\test\gogogo\semes3\pertemuan4\have fun\have fun\list.h
+	<iostream>
+
+1728436123 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan4\have fun\have fun\main.cpp
+	<iostream>
+	"list.h"
+

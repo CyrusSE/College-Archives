@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1728702432 source:d:\onedrive - telkom university\backup d\kuliah\semester 3\std\source-code-smt-3\modul 4\tugas4\main.cpp
+	"list.h"
+
+1728702692 source:d:\onedrive - telkom university\backup d\kuliah\semester 3\std\source-code-smt-3\modul 4\tugas4\list.cpp
+	"list.h"
+
+1728648675 d:\onedrive - telkom university\backup d\kuliah\semester 3\std\source-code-smt-3\modul 4\tugas4\list.h
+	<iostream>
+
