@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729416990 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan6\dll\main.cpp
+	<iostream>
+	"DLL.h"
+
+1729417146 c:\users\ical\desktop\test\gogogo\semes3\pertemuan6\dll\dll.h
+	<iostream>
+
+1729440077 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan6\dll\dll.cpp
+	"DLL.h"
+
