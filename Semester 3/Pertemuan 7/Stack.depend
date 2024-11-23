@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730043965 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan7\stack\stack.cpp
+	<iostream>
+	"stack.h"
+
+1730043817 c:\users\ical\desktop\test\gogogo\semes3\pertemuan7\stack\stack.h
+	<iostream>
+
