@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1728791517 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan5\adt tp\main.cpp
+	<iostream>
+	"menu.h"
+	"list.h"
+
+1728790767 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan5\adt tp\menu.cpp
+	<iostream>
+	"list.h"
+	"menu.h"
+
+1728791517 c:\users\ical\desktop\test\gogogo\semes3\pertemuan5\adt tp\list.h
+	<iostream>
+
+1728791517 c:\users\ical\desktop\test\gogogo\semes3\pertemuan5\adt tp\menu.h
+	<iostream>
+	"list.h"
+
+1728791517 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan5\adt tp\list.cpp
+	<iostream>
+	"list.h"
+
