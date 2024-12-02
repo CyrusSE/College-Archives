@@ -1,0 +1,10 @@
+program tabungan
+kamus
+    n, i, total : integer
+algoritma
+    input(n)
+    for i <- 1 to n do
+        total <- total + 5000
+    endfor
+    output(total)
+endprogram

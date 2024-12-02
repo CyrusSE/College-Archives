@@ -1,0 +1,9 @@
+program bulan_lahir
+kamus
+    check : boolean
+    bulan, tahun : integer
+algoritma
+    input(bulan, tahun)
+    check <- bulan == 6 AND 2005 < tahun
+    output(check)
+endprogram

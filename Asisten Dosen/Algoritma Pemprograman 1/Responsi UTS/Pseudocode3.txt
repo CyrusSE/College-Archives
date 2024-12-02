@@ -1,0 +1,16 @@
+program nilai_akhir
+kamus
+    type mahasiswa<
+        nim, nama, jurusan : string
+        tugas, kuis, ujian, praktikum, nilai_akhir : real
+    >
+    data : mahasiswa
+algoritma
+    input(data.nim, data.nama, data.jurusan)
+    input(data.tugas, data.kuis, data.ujian, data.praktikum)
+    data.nilai_akhir <- (0.1 * data.tugas) + (0.2 * data.kuis) + (0.5 * data.ujian) + (0.2 * data.praktikum)
+    output("nim=", data.nim)
+    output("nama=", data.nama)
+    output("jurusan=", data.jurusan)
+    output("nilai_akhir=", data.nilai_akhir)
+endprogram
