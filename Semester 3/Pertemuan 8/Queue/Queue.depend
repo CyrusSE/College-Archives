@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731058337 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan8\queue\queue.cpp
+	<iostream>
+	"queue.h"
+
+1731057604 c:\users\ical\desktop\test\gogogo\semes3\pertemuan8\queue\queue.h
+
+1731047787 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan8\queue\main.cpp
+	<iostream>
+	"queue.h"
+
