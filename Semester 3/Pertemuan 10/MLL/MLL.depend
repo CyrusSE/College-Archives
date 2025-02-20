@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731858026 source:c:\users\ical\desktop\test\gogogo\semes3\learning\sll\mll\main.cpp
+	<iostream>
+	"MLL.h"
+
+1731982960 c:\users\ical\desktop\test\gogogo\semes3\learning\sll\mll\mll.h
+	<iostream>
+
+1731854605 source:c:\users\ical\desktop\test\gogogo\semes3\learning\sll\mll\mll.cpp
+	"MLL.h"
+
