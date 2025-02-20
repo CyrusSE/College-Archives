@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734882458 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan15\tree\main.cpp
+	<iostream>
+	"Tree.h"
+
+1735222604 c:\users\ical\desktop\test\gogogo\semes3\pertemuan15\tree\tree.h
+	<iostream>
+
+1735222596 source:c:\users\ical\desktop\test\gogogo\semes3\pertemuan15\tree\tree.cpp
+	"Tree.h"
+
